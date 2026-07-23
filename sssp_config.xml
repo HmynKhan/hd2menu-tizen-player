@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget>
-    <ver>5</ver>
-    <size>571513</size>
+    <ver>6</ver>
+    <size>582076</size>
     <widgetname>ReactApp</widgetname>
     <webtype>Tizen</webtype>
 </widget>
