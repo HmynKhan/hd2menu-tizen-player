@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget>
-    <ver>1</ver>
+    <ver>2</ver>
     <size>11316245</size>
     <widgetname>ReactApp</widgetname>
     <webtype>Tizen</webtype>
